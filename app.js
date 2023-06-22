@@ -1,1 +1,1 @@
-console.log.("rodando o sistema de gerenciamwnto de jogos");
+console.log.("rodando    o sistema de gerenciamwnto de jogos");
